@@ -5,7 +5,6 @@
 
 사이트 이용 영상
 
-![portfolio second](https://github.com/user-attachments/assets/828505fb-2320-493f-84f0-be686790cd02)
 
 회원관련 기능 소개
 
