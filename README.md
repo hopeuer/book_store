@@ -10,8 +10,6 @@
     <img src="https://github.com/user-attachments/assets/277409ae-8485-46cd-8c77-1f3cb2eebd18" alt="사이트 이용 영상">
 </a>
 
-
-
 ---
 
 ## 회원관련 기능 소개
