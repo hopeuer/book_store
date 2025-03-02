@@ -6,7 +6,7 @@
 
 ## 사이트 이용 영상
 
-![portfolio](https://github.com/user-attachments/assets/277409ae-8485-46cd-8c77-1f3cb2eebd18)
+![portfolio](https://github.com/user-attachments/assets/277409ae-8485-46cd-8c77-1f3cb2eebd18)(https://your-blog-url.com)
 
 
 
