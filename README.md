@@ -6,8 +6,9 @@
 
 ## 사이트 이용 영상
 
-[![portfolio](https://github.com/user-attachments/assets/277409ae-8485-46cd-8c77-1f3cb2eebd18)](https://blog.naver.com/PostView.naver?blogId=ahenfmf253&Redirect=View&logNo=223781411677&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=2827)
-
+<a href="https://blog.naver.com/PostView.naver?blogId=ahenfmf253&Redirect=View&logNo=223781411677&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=2827" target="_blank">
+    <img src="https://github.com/user-attachments/assets/277409ae-8485-46cd-8c77-1f3cb2eebd18" alt="사이트 이용 영상">
+</a>
 
 
 
