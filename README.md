@@ -6,7 +6,8 @@
 
 ## 사이트 이용 영상
 
-(여기에 사이트 이용 영상 삽입)
+
+![portfolio](https://github.com/user-attachments/assets/f6d96e31-c408-4b4e-829a-d096ca51bc95)
 
 ---
 
